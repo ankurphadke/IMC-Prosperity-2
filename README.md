@@ -9,6 +9,7 @@ Overall, seems like a cool competition though. Requires each iteration to comput
     - Lowest Bid: 952
     - Highest Bid: 978
 - Round 2
+    - shells -> pizza -> wasabi -> shells -> pizza -> shells
 - Round 3
 - Round 4
 - Round 5
