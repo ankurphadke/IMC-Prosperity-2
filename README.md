@@ -1,7 +1,7 @@
 # IMC-Prosperity-2
 https://prosperity.imc.com/
 ## Submissions
-I missed the algo trading round 1 deadline. Decided to only compete in the manual trading section.
+I missed the algo trading round 1 deadline, and decided to only compete in the manual trading section.
 ### Manual Trading
 - Round 1
     - Lowest Bid: 952
