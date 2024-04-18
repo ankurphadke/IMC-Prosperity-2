@@ -9,6 +9,7 @@ I missed the algo trading round 1 deadline, and decided to only compete in the m
 - Round 2
     - shells -> pizza -> wasabi -> shells -> pizza -> shells
 - Round 3
+    - 2 expeditions: H26, J29
 - Round 4
 - Round 5
 
