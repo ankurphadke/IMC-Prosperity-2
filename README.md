@@ -11,6 +11,8 @@ I missed the algo trading round 1 deadline, and decided to only compete in the m
 - Round 3
     - 2 expeditions: H26, J29
 - Round 4
+    - Lowest Bid: 954
+    - Highest Bid: 981
 - Round 5
 
 ## Helpful open-source tools for the algo trading rounds:
