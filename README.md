@@ -14,6 +14,15 @@ I missed the algo trading round 1 deadline, and decided to only compete in the m
     - Lowest Bid: 954
     - Highest Bid: 981
 - Round 5
+    - Refrigerators: Buy 4%
+    - Icicle earrings: Buy 8%
+    - Electric blankets: Sell 13%
+    - Sleds: Sell 4%
+    - Ice Sculptures: Buy 31%
+    - PS6: Buy 6%
+    - Moustache serum: Sell 27%
+    - Lava lamps: Sell 2%
+    - Hot chocolate: Buy 0%
 
 ## Helpful open-source tools for the algo trading rounds:
 - https://github.com/jmerle/imc-prosperity-2-visualizer
