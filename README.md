@@ -1,7 +1,9 @@
 # IMC-Prosperity-2
 https://prosperity.imc.com/
+
 ## Submissions
 I missed the algo trading round 1 deadline, and decided to only compete in the manual trading section.
+
 ### Manual Trading
 - Round 1
     - Lowest Bid: 952
@@ -23,6 +25,11 @@ I missed the algo trading round 1 deadline, and decided to only compete in the m
     - Moustache serum: Sell 27%
     - Lava lamps: Sell 2%
     - Hot chocolate: Buy 0%
+
+## Results
+
+### Manual
+- Awaiting...
 
 ## Helpful open-source tools for the algo trading rounds:
 - https://github.com/jmerle/imc-prosperity-2-visualizer
