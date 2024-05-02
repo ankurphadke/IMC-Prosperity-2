@@ -29,7 +29,7 @@ I missed the algo trading round 1 deadline, and decided to only compete in the m
 ## Results
 
 ### Manual
-- Awaiting...
+- Rank 205/9139 (**Top 2.5\%**): 502.553 Seashells
 
 ## Helpful open-source tools for the algo trading rounds:
 - https://github.com/jmerle/imc-prosperity-2-visualizer
